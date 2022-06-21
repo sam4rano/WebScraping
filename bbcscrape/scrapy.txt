@@ -1,0 +1,3 @@
+running scrapy scripts and converting to .csv format
+scrapy crawl posts -0 bbc1.csv
+scrapy runspider bbc_spider.py -o bbc5.tsv
